@@ -3,3 +3,9 @@ gitcommit
 
 
 master branch commit
+feature-branch Commit
+Another commit
+Absolutely bad commit message
+Finishing the feature
+
+Human
